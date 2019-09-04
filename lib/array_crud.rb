@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  
+  pathway_to_success = ["Step 1","Step 2","Step 3","Step 4"]
 end
 
 def add_element_to_end_of_array(array, element)
