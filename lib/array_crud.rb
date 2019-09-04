@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  pathway_to_success.push("Step 5")
+  array.push("Step 5")
 end
 
 def add_element_to_start_of_array(array, element)
