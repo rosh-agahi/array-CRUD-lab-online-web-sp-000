@@ -15,21 +15,21 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  pathway_to_success.pop
+  
 end
 
 def remove_element_from_start_of_array(array)
-  pathway_to_success.shift 
+   
 end
 
 def retrieve_element_from_index(array, index_number)
-  pathway_to_success[3]
+  
 end
 
 def retrieve_first_element_from_array(array)
-  pathway_to_success.first
+ 
 end
 
 def retrieve_last_element_from_array(array)
-  pathway_to_success.last
+  
 end
